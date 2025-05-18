@@ -1,0 +1,24 @@
+// export const CONTINUA = ['POW', 'VOC', 'DIF', 'ACU', 'GRD', 'VOI', 'BUR'];
+// export const NUM_FEATURES = 9;
+export const NUM_FEATURES = 3;
+export const CONTINUA = [
+    'Consonant', 	      
+    'Obstruent', 
+    'Sonorant', 
+    'Voiced', 
+    'Plosive', 
+    'Continuant', 
+    'Nasal', 
+    'Lateral', 
+    'Rhotic', 
+    'Strident', 
+    'Labial', 
+    'Coronal', 
+    'Dorsal', 
+    'Glottal', 
+    'Distributed', 
+    'High', 
+    'Mid', 
+    'Low', 
+    'Retracted', 
+    'Long'];
